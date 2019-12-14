@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: angular-spring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Anish
+Implementation-Vendor-Id: com.cosyn
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/angular-spring
+Created-By: Maven Integration for Eclipse
+
